@@ -4,7 +4,11 @@ web development
 MERN stack
 and JavaScript expertise.
 I love learning new technologies and building projects that solve real-world problems.
-
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 <!--
 **rizwan-signon/rizwan-signon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
