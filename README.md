@@ -22,6 +22,23 @@ these are my skills...
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwansoftwaredev/)
 
 
+
+### 😄 Fun Facts
+- 🌱 I’m currently learning about AI and machine learning.
+- 🎨 I enjoy creating digital art in my free time.
+- 💡 Always looking for new project ideas and collaborations!
+### 😂 A Little Humor
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+### 🏆 GitHub Trophies
+![trophy](https://github-profile-trophy.vercel.app/?username=rizwan-signon&theme=radical)
+
+### 📈 GitHub Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rizwan-signon&theme=radical)
+
+### 🚀 Current Project
+- I'm building a YouTube clone using the MERN stack with advanced features like user authentication, likes, and dislikes.
+
 <!--
 **rizwan-signon/rizwan-signon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
