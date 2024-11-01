@@ -17,6 +17,11 @@ these are my skills...
 ![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwan-signon&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-signon&layout=compact&theme=radical)
 
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwansoftwaredev/)
+
+
 <!--
 **rizwan-signon/rizwan-signon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
