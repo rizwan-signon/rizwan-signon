@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi there, I'm Rizwanullah 👋
+I'm a Full Stack Developer with a focus on
+web development
+MERN stack
+and JavaScript expertise.
+I love learning new technologies and building projects that solve real-world problems.
 
 <!--
 **rizwan-signon/rizwan-signon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
