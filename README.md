@@ -1,7 +1,7 @@
 # Hi there, I'm Rizwanullah! 👋
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. With expertise in **React, Next.js, TypeScript, Node.js, Express, MongoDB, and Tailwind CSS**, I focus on writing clean and maintainable code. I enjoy working on challenging projects that push my skills to the next level.
+I'm a **Full Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. With expertise in **React, Next.js, TypeScript, Node.js, Express,postgres,cubeJs,MongoDB, and Tailwind CSS**, I focus on writing clean and maintainable code. I enjoy working on challenging projects that push my skills to the next level.
 
 ## 💻 Tech Stack
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS
