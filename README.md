@@ -1,55 +1,39 @@
-# Hi there, I'm Rizwanullah 👋
-I'm a Full Stack Developer with a focus on
-web development
-MERN stack
-and JavaScript expertise.
-I love learning new technologies and building projects that solve real-world problems.
-these are my skills...
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node-dot-js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+# Hi there, I'm Rizwanullah! 👋
+
+## 🚀 About Me
+I'm a **Full Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. With expertise in **React, Next.js, TypeScript, Node.js, Express, MongoDB, and Tailwind CSS**, I focus on writing clean and maintainable code. I enjoy working on challenging projects that push my skills to the next level.
+
+## 💻 Tech Stack
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS
+- **Backend**: Node.js, Express, MongoDB, Redis
+- **State Management**: Redux Toolkit, React Query
+- **Dev Tools**: Git, Docker, Webpack, Vite
+- **Testing & Debugging**: Jest, Cypress (learning more!)
+- **AI & Cloud**: OpenAI, Cloudinary, Firebase
+
+## 🎯 Interests
+- 🧠 **Quantum Computing & Physics** – Exploring the future of computation beyond classical systems.
+- 🚀 **SpaceX, Tesla & Emerging Technologies** – Keeping up-to-date with cutting-edge advancements in AI, space exploration, and autonomous systems.
+- 🌐 **Tech & Innovation** – Always learning new tools, frameworks, and technologies to stay ahead in the field.
+- 🎮 **Game Development** – Experimenting with Phaser and Three.js for interactive projects.
+
+## 🌱 Current Projects
+- 📽️ **MERN-Based YouTube Clone** – Implementing video hosting, authentication, and a like/dislike system.
+- 📚 **Paid MERN Course Website** – Creating a secure platform for premium web development tutorials.
+- 🧑‍💻 **Open Source Contributions** – Participating in Hacktoberfest and engaging with the dev community.
+
+## 📌 Goals for 2025
+- ✅ Master **GraphQL & Microservices**
+- ✅ Dive deeper into **Machine Learning & AI**
+- ✅ Contribute to **major open-source projects**
+- ✅ Explore **Quantum Computing Applications**
+
+## 📫 Connect with Me
+- **GitHub**: [rizwan-signon](https://github.com/rizwan-signon)
+- **LinkedIn**: [Coming Soon]
+- **YouTube**: [Web Development & Tech Tutorials](#)
+- **Twitter**: [@yourhandle](#) (Tech insights & updates)
+
+🚀 _Let's build something amazing together!_
 
 
-
-### 📊 GitHub Stats
-![Rizwan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rizwan-signon&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwan-signon&layout=compact&theme=radical)
-
-
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rizwansoftwaredev/)
-
-
-
-### 😄 Fun Facts
-- 🌱 I’m currently learning about AI and machine learning.
-- 🎨 I enjoy creating digital art in my free time.
-- 💡 Always looking for new project ideas and collaborations!
-### 😂 A Little Humor
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=rizwan-signon&theme=radical)
-
-### 📈 GitHub Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=rizwan-signon&theme=radical)
-
-### 🚀 Current Project
-- I'm building a YouTube clone using the MERN stack with advanced features like user authentication, likes, and dislikes.
-
-<!--
-**rizwan-signon/rizwan-signon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
