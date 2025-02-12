@@ -5,10 +5,9 @@ I'm a **Full Stack Developer** with a passion for building scalable, efficient, 
 
 ## 💻 Tech Stack
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS
-- **Backend**: Node.js, Express, MongoDB, Redis
-- **State Management**: Redux Toolkit, React Query
+- **Backend**: Node.js, Express, MongoDB, Redis, postgres,cubejs
+- **State Management**: Redux Toolkit, React Query,useContext
 - **Dev Tools**: Git, Docker, Webpack, Vite
-- **Testing & Debugging**: Jest, Cypress (learning more!)
 - **AI & Cloud**: OpenAI, Cloudinary, Firebase
 
 ## 🎯 Interests
