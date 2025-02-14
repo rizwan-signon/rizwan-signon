@@ -30,8 +30,6 @@ I'm a **Full Stack Developer** with a passion for building scalable, efficient, 
 ## 📫 Connect with Me
 - **GitHub**: [rizwan-signon](https://github.com/rizwan-signon)
 - **LinkedIn**:[rizwanWebDev](https://www.linkedin.com/in/rizwansoftwaredev/)
-- **YouTube**: [Web Development & Tech Tutorials](#)
-- **Twitter**: [@yourhandle](#) (Tech insights & updates)
 
 🚀 _Let's build something amazing together!_
 
