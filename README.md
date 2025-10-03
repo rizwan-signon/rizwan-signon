@@ -1,7 +1,11 @@
 # Hi there, I'm Rizwanullah! 👋
 
 ## 🚀 About Me
-I'm a **Full Stack Developer** with a passion for building scalable, efficient, and user-friendly applications. With expertise in **React, Next.js, TypeScript, Node.js, Express,postgres,cubeJs,MongoDB, and Tailwind CSS**, I focus on writing clean and maintainable code. I enjoy working on challenging projects that push my skills to the next level.
+**Full Stack JavaScript Developer** developing and maintaining web applications using the JavaScript
+(MongoDB, Express, React, Node.js) and PostgreSQL. Skilled in building responsive, mobile-friendly user interfaces with React,
+Next.js, TypeScript, Material UI, Tailwind CSS, and Cube.js. Proficient in working with both GraphQL and REST APIs, with hands-on
+experience managing complex application state using Redux Toolkit and TanStack Query. Focused on writing clean, efficient code,
+optimizing performance, and delivering reliable solutions
 
 ## 💻 Tech Stack
 - **Frontend**: React, Next.js, TypeScript, Tailwind CSS
